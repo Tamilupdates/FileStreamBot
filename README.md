@@ -7,8 +7,6 @@
   </a>
   <p align="center">
     A Telegram bot to stream files to web<br/>
-    <a href="https://telegram.dog/DirectLinkGenerator_Bot"><strong>Demo Bot (Not Available)»</strong></a>
-    <br />
     <a href="https://github.com/Tamilupdates/FileStreamBot/issues">Report a Bug</a>
     |
     <a href="https://github.com/Tamilupdates/FileStreamBot/issues">Request Feature</a>
