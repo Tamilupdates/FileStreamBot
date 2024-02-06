@@ -1,1 +1,1 @@
-web: python3 get_env.py && python3 -m WebStreamer
+worker: python3 get_env.py && python3 -m WebStreamer
