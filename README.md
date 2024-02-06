@@ -44,11 +44,6 @@
 
 ## About This Bot
 
-<p align="center">
-    <a herf="https://github.com/Tamilupdates/FileStreamBot">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
-    </a>
-</p>
 <p align='center'>
     This bot will give you stream links for Telegram files without the need of waiting till the download completes
 </p>
