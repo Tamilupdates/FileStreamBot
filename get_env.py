@@ -1,7 +1,7 @@
 from requests import get as rget
 import os
 
-CONFIG_FILE_URL = os.environ.get('CONFIG_FILE_URL')
+CONFIG_FILE_URL = os.environ.get('ENV_FILE_URL')
 try:
     if len(CONFIG_FILE_URL) == 0:
         raise TypeError
@@ -13,7 +13,7 @@ try:
         else:
             LOGGER.error(f"Failed to download .env {res.status_code}")
     except Exception as e:
-        LOGGER.error(f"CONFIG_FILE_URL: {e}")
+        LOGGER.error(f"ENV_FILE_URL: {e}")
 except Exception as e:
     LOGGER.error(e)
     pass
