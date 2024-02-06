@@ -1,17 +1,17 @@
-### [FileStreamBot](https://github.com/Tamilupdates/FileStreamBot) is a Modified Version of [TG-FileStreamBot](github.com/EverythingSuckz/TG-FileStreamBot) by [EverythingSuckz](github.com/EverythingSuckz/)
+### [FileStreamBot](https://github.com/Tamilupdates/FileStreamBot) is a Modified Version
 <hr>
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
-  <a href="https://github.com/DeekshithSH/FileStreamBot">
-    <img src="https://socialify.git.ci/DeekshithSH/FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="FileStreamBot" width="640" height="320" />
+  <a href="https://github.com/Tamilupdates/FileStreamBot">
+    <img src="https://socialify.git.ci/Tamilupdates/FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="FileStreamBot" width="640" height="320" />
   </a>
   <p align="center">
     A Telegram bot to stream files to web<br/>
     <a href="https://telegram.dog/DirectLinkGenerator_Bot"><strong>Demo Bot (Not Available)»</strong></a>
     <br />
-    <a href="https://github.com/DeekshithSH/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/Tamilupdates/FileStreamBot/issues">Report a Bug</a>
     |
-    <a href="https://github.com/DeekshithSH/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/Tamilupdates/FileStreamBot/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/DeekshithSH/FileStreamBot">
+    <a herf="https://github.com/Tamilupdates/FileStreamBot">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -74,7 +74,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/DeekshithSH/FileStreamBot
+git clone https://github.com/Tamilupdates/FileStreamBot
 cd FileStreamBot
 python3 -m venv ./venv
 . ./venv/bin/activate
