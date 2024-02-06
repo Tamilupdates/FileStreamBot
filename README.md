@@ -1,4 +1,4 @@
-### [FileStreamBot](https://github.com/Tamilupdates/FileStreamBot) is a Modified Version
+### <p align="center"> [FileStreamBot](https://github.com/Tamilupdates/FileStreamBot) is a Modified Version</p>
 <hr>
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
