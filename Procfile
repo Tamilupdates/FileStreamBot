@@ -1,1 +1,1 @@
-web: get_config.py && python -m WebStreamer
+web: python get_config.py && -m WebStreamer
