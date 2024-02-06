@@ -15,8 +15,8 @@
     "success_url": "/",
     "website": "https://github.com/Tamilupdates/FileStreamBot",
     "env": {
-        "ENV_FILE_URL": {
-            "description": "ENV File URL",
+        "CONFIG_FILE_URL": {
+            "description": "Config File URL",
             "required": true
         }
     },
