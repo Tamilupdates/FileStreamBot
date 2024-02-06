@@ -1,0 +1,1 @@
+web: get_config.py && python -m WebStreamer
