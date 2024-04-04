@@ -7,8 +7,7 @@ load_dotenv()
 
 
 class Var(object):
-    MULTI_CLIENT = True
-    #MULTI_CLIENT = is_enabled(environ.get("MULTI_CLIENT"))
+    MULTI_CLIENT = False
     API_ID = int(environ.get("API_ID"))
     API_HASH = str(environ.get("API_HASH"))
     BOT_TOKEN = str(environ.get("BOT_TOKEN"))
