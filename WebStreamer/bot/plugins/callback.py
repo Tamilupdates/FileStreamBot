@@ -121,7 +121,7 @@ async def gen_file_menu(_id, file_list_no, update: CallbackQuery):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("Back", callback_data="userfiles_{}".format(file_list_no)), InlineKeyboardButton("Delete Link", callback_data=f"msgdelconf2_{myfile_info['_id']}_{file_list_no}")],
-                [InlineKeyboardButton("📥 Dᴏᴡɴʟᴏᴀᴅ 📥", url=stream_link)]
+                [InlineKeyboardButton("🖥 ꜱᴛʀᴇᴀᴍ", url=page_link), InlineKeyboardButton("Dᴏᴡɴʟᴏᴀᴅ 📥", url=stream_link)]
             ]
             )
         )
