@@ -6,3 +6,4 @@ motor
 aiofiles
 dnspython
 requests
+jinja2
