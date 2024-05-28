@@ -28,12 +28,4 @@ async def render_page(db_id):
                     heading = 'Download {}'.format(file_data['file_name'])
                     file_size = humanbytes(int(u.headers.get('Content-Length')))
                     html = (await r.read()) % (heading, file_data['file_name'], src, file_size)
-
-    with open(template_file) as f:
-        template = jinja2.Template(f.read())
-
-    return html.render(
-        file_name=file_name,
-        file_url=src,
-        file_size=file_size
-    )
+    return html
