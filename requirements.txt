@@ -1,5 +1,6 @@
 aiohttp
-pyrogram
+git+https://github.com/KurimuzonAkuma/pyrogram.git
+Pyromod
 python-dotenv
 tgcrypto
 motor
